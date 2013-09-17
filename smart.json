@@ -3,7 +3,7 @@
   "description": "wraps Meteor.Collection to provide automatic validation using JSON-Schema",
   "homepage": "https://github.com/ahdinosaur/meteor-schema-collection",
   "author": "Michael Williams",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "git": "https://github.com/ahdinosaur/meteor-schema-collection.git",
   "packages": {
     "JSV": {}
